@@ -1,0 +1,20 @@
+{
+"web-site": "url",
+"doors": [
+	{
+	"door-name": "Входная дверь Гранит Пиано Черная 053 Пиано белая 12 мм",
+	"door-price": "43 900 ₽/шт",
+	"door-features": [
+        {"Внешний лист стали": "1.5мм"},
+        {"Толщина двери" : "110-126мм (В зависимости от толщины внутренней мдф панели)"}
+    ],
+    "door-photos": [
+        {
+            "local-url": "",
+            "global-url": "https://www.farniture.ru/upload/resize_cache/iblock/8f0/450_450_140cd750bba9870f18aada2478b24840a/w33fax1ttkgnth89u12uhjt6h1bywl65.jpg"
+        }
+    ],
+	"door-url": "https://www.farniture.ru/catalog/product/vkhodnaya_dver_granit_piano_chernaya_053_piano_belaya_12_mm/"
+	}
+]
+}
